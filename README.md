@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
     pip install -r requirements.txt
     ```
 
-4. Prepare your own dataset for both players using the given gather_images python scripts
+4. Prepare your own dataset for both players using the given gather_images python scripts.
 
 
 
