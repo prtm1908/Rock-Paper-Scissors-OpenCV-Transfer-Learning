@@ -22,4 +22,4 @@ To run this project locally, follow these steps:
 
 
 
-Have fun playing Rock-Paper-Scissors with your computer opponent! If you have any questions or suggestions, feel free to reach out or open an issue in this repository. Enjoy! 🎮✊✋✌️
+Have fun playing Rock-Paper-Scissors! If you have any questions or suggestions, feel free to reach out or open an issue in this repository. Enjoy! 🎮✊✋✌️
